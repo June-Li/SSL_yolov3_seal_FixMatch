@@ -1,0 +1,7 @@
+train: ./data/ocr_table/all_8000/images/train/ 
+val: ./data/ocr_table/all_8000/images/val  
+test: ./data/ocr_table/all_8000/images/test 
+
+nc: 1
+
+names: ['table']
